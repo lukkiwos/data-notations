@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Email>
+    <Body>
+        <Sender>Jack Sparrow</Sender>
+        <Recipient>Davy Jones</Recipient>
+        <Subject>Dead Man's Chest</Subject>
+        <Message><![CDATA[
+Ahoy, Captain Jones,
+I trust the seas have been as cruel to you as ever. Word has reached me—via a rather talkative crab—that you’re still in possession of that charming little box they call the Dead Man’s Chest.
+        
+Now, while I admire your dedication to keeping your heart under lock and key (quite literally), I find myself in need of reclaiming what’s rightfully mine… or at least temporarily borrowed. I propose a civilized parley—no cannons, no krakens, just a bottle of rum and a gentleman’s understanding.
+       
+Do let me know when the tides favor such a meeting.
+
+Yours in infamy (and occasional honesty),
+
+Captain Jack Sparrow
+
+Captain of the Black Pearl
+
+“Why fight when you can negotiate?”
+        ]]></Message>
+    </Body>
+</Email>

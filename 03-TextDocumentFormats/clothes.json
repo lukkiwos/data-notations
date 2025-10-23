@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Puma",
+        "founded": 1948,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 14000,
+        "products": [
+            "sportswear",
+            "footwear",
+            "accessories"
+        ]
+    },
+    {
+        "name": "Under armour",
+        "founded": 1996,
+        "headquarters": "Baltimore, USA",
+        "employees": 16000,
+        "products": [
+            "sportswear",
+            "footwear",
+            "accessories"
+        ]
     }
 ]

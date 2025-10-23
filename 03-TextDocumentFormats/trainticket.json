@@ -1,0 +1,21 @@
+{
+    "ticketNumber": "TRN9834752",
+    "passengerName": "John Smith",
+    "from": "London Kings Cross",
+    "to": "Edinburgh Waverley",
+    "departureDate": "2025-11-05",
+    "departureTime": "08:45",
+    "arrivalTime": "13:10",
+    "trainNumber": 221,
+    "coach": "B",
+    "seat": "45A",
+    "price": 79.99,
+    "isReturn": false,
+    "class": "Standard",
+    "passengerCount": 1,
+    "contact": {
+        "email": "john.smith@example.com",
+        "phone": "+44 7700 900123"
+    },
+    "notes": null
+}

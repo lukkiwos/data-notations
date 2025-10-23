@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+
+    <smartphone brand="Xiaomi" model="Mi 10T Pro" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">6.67</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">108</camera>
+        </specs>
+        <price currency="USD">599</price>
+    </smartphone>
 </smartphones>

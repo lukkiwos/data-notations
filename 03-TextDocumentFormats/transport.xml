@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MeansOfTransport>
+    
+    <vehicle>
+        <type>Car</type>
+        <properties>
+            <property>Number of Wheels</property>
+            <property>Engine Type</property>
+            <property>Fuel Capacity</property>
+        </properties>
+        <Car brand="BMW" model="M5" year="2021">
+            <specs>
+                <NumberOfWheels unit="count">4</NumberOfWheels> 
+                <engine type="V8">4.4L TwinTurbo</engine>
+                <fuelCapacity unit="litter">68</fuelCapacity>
+            </specs>
+        </Car>
+    </vehicle>
+    
+    <vehicle>
+        <type>Motorcycle</type>
+        <properties>
+            <property>Number of Wheels</property>
+            <property>Engine Type</property>
+            <property>Fuel Capacity</property>
+        </properties>
+        <Motorcycle brand="Ducati" model="Panigale V4" year="2020">
+            <specs>
+                <NumberOfWheels unit="count">2</NumberOfWheels>
+                <engine type="V4">1103cc</engine>
+                <fuelCapacity unit="litter">16</fuelCapacity>
+            </specs>
+        </Motorcycle>
+    </vehicle>
+    
+    <vehicle>
+        <type>Bus</type>
+        <properties>
+            <property>Number of Wheels</property>
+            <property>Seating Capacity</property>
+            <property>Fuel Type</property>
+        </properties>
+        <Bus brand="Mercedes-Benz" model="Citaro" year="2019">
+            <specs>
+                <NumberOfWheels unit="count">6</NumberOfWheels>
+                <seatingCapacity unit="count">100</seatingCapacity>
+                <fuelType>Diesel</fuelType>
+            </specs>
+        </Bus>
+    </vehicle>
+
+</MeansOfTransport>

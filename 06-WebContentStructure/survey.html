@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+
+<body>
+    <h1>Survey Form</h1>
+    <form action="#" method="post">
+        <p>
+            <label for="age">Age</label>
+            <input type="number" id="age" name="age" min="0" max="100" required>
+        </p>
+        <p>
+            Gender:<br>
+            <input type="radio" id="male" name="gender" value="male" required>
+            <label for="male">Male</label>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label>
+            <input type="radio" id="other" name="gender" value="other">
+            <label for="other">Other</label>
+        </p>
+        <p>
+            <label>How often do you use ChatGPT?</label><br>
+            <input type="radio" id="constantly" name="frequency" value="constantly" required>
+            <label for="constantly">Constantly</label><br>
+            <input type="radio" id="often" name="frequency" value="often">
+            <label for="often">Often</label><br>
+            <input type="radio" id="occasionally" name="frequency" value="occasionally">
+            <label for="occasionally">Occasionally</label><br>
+            <input type="radio" id="rarely" name="frequency" value="rarely">
+            <label for="rarely">Rarely</label><br>
+            <input type="radio" id="never" name="frequency" value="never">
+            <label for="never">Never</label><br><br>
+        </p>
+
+        <p>
+            <label for="benefits">Describe shortly your benefits from using AI</label><br>
+            <textarea id="benefits" name="benefits" rows="4" cols="50" placeholder="Write your opinion here ..."
+                required>
+        </textarea><br><br>
+        </p>
+
+        <input type="submit" value="Send Survey">
+    </form>
+</body>
+
+</html>
